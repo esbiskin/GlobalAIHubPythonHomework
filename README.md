@@ -1,3 +1,1 @@
-#GlobalAIHubPythonHomework
-Global AI Hub Python Course
-Introduction to Python Programming Homeworks from Turkish AI Hub
+Introduction to Python Programming Homeworks from Global - Turkish AI Hub
